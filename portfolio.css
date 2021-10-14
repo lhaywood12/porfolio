@@ -30,6 +30,11 @@
     border-bottom:6px solid rgb(253, 90, 117);
 }
 
+.header-image {
+    width: 200px;
+    margin-left: 42%;
+}
+
 .about-header {
     border-top:6px solid rgb(253, 90, 117);
     border-bottom:6px solid rgb(253, 90, 117);
